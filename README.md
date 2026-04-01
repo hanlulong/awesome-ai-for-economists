@@ -44,11 +44,14 @@ A curated list of AI tools, libraries, and resources transforming how economists
 [Model Context Protocol](https://modelcontextprotocol.io/) (MCP) servers let AI assistants query economic databases directly. Connect Claude, Cursor, or other MCP-compatible tools to live data from FRED, World Bank, IMF, and more.
 
 - [Alpha Vantage MCP](https://mcp.alphavantage.co/) - Official server for stocks, forex, commodities, and economic indicators.
+- [BLS MCP Server](https://github.com/shawndrake2/mcp-bls) - Bureau of Labor Statistics data: CPI, unemployment, employment, and wages via BLS API. ![GitHub stars](https://img.shields.io/github/stars/shawndrake2/mcp-bls?style=flat-square)
 - [Census MCP Server](https://lobehub.com/mcp/brockwebb-census-mcp-server) - Natural language queries for U.S. Census demographic data.
+- [Eurostat MCP Server](https://github.com/ano-kuhanathan/eurostat-mcp) - Query Eurostat APIs for EU statistics with dataset search, filtering, and CSV export. ![GitHub stars](https://img.shields.io/github/stars/ano-kuhanathan/eurostat-mcp?style=flat-square)
 - [Financial Datasets MCP](https://github.com/financial-datasets/mcp-server) - Stock market data including prices, financials, and SEC filings via MCP. ![GitHub stars](https://img.shields.io/github/stars/financial-datasets/mcp-server?style=flat-square)
 - [FRED MCP Server](https://github.com/stefanoamorelli/fred-mcp-server) - Access all 800,000+ FRED time series with date filtering and frequency adjustment. ![GitHub stars](https://img.shields.io/github/stars/stefanoamorelli/fred-mcp-server?style=flat-square)
 - [IMF Data MCP Server](https://github.com/c-cf/imf-data-mcp) - WEO forecasts, balance of payments, and more from the IMF. ![GitHub stars](https://img.shields.io/github/stars/c-cf/imf-data-mcp?style=flat-square)
 - [Nasdaq Data Link MCP](https://github.com/stefanoamorelli/nasdaq-data-link-mcp) - Access Nasdaq/Quandl financial and economic datasets. ![GitHub stars](https://img.shields.io/github/stars/stefanoamorelli/nasdaq-data-link-mcp?style=flat-square)
+- [OECD MCP Server](https://github.com/isakskogstad/OECD-MCP) - Access 5,000+ OECD statistical datasets via SDMX API with prompt templates. ![GitHub stars](https://img.shields.io/github/stars/isakskogstad/OECD-MCP?style=flat-square)
 - [**OpenEcon**](https://openecon.ai/) - Unified natural language interface to 330,000+ economic indicators across FRED, World Bank, IMF, Comtrade, StatsCan, Eurostat, BIS, and ExchangeRate-API. Available as [web app](https://data.openecon.ai), Python API, and [MCP server](https://github.com/hanlulong/openecon-data). Supports CSV, JSON, DTA (Stata), and Python export. ![GitHub stars](https://img.shields.io/github/stars/hanlulong/openecon-data?style=flat-square)
 - [TAM MCP Server](https://github.com/gvaibhav/TAM-MCP-Server) - One server, eight sources: Alpha Vantage, BLS, Census, FRED, IMF, Nasdaq, OECD, and World Bank. ![GitHub stars](https://img.shields.io/github/stars/gvaibhav/TAM-MCP-Server?style=flat-square)
 - [World Bank MCP Server](https://github.com/anshumax/world_bank_mcp_server) - Query World Bank Open Data API for development indicators across countries. ![GitHub stars](https://img.shields.io/github/stars/anshumax/world_bank_mcp_server?style=flat-square)
@@ -61,7 +64,9 @@ A curated list of AI tools, libraries, and resources transforming how economists
 
 ## Coding Tools for Economists
 
+- [Aider](https://github.com/Aider-AI/aider) - AI pair programming in your terminal with git integration and 260+ LLM support. ![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=flat-square)
 - [awesome-econ-ai-stuff](https://github.com/meleantonio/awesome-econ-ai-stuff) - Reusable AI skills for economists (SKILL.md standard) covering Stata, Python, and LaTeX workflows. ![GitHub stars](https://img.shields.io/github/stars/meleantonio/awesome-econ-ai-stuff?style=flat-square)
+- [Cline](https://github.com/cline/cline) - Autonomous coding agent for VS Code with Plan/Act modes, MCP integration, and 5M+ installs. ![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=flat-square)
 - [Jupyter AI](https://github.com/jupyterlab/jupyter-ai) - Official JupyterLab extension with `%%ai` magic commands for code generation and explanation. ![GitHub stars](https://img.shields.io/github/stars/jupyterlab/jupyter-ai?style=flat-square)
 - [Jupyter AI Agents](https://github.com/datalayer/jupyter-ai-agents) - AI agents for JupyterLab with MCP integration for connecting notebooks to FRED, World Bank, and more. ![GitHub stars](https://img.shields.io/github/stars/datalayer/jupyter-ai-agents?style=flat-square)
 - [Marimo](https://github.com/marimo-team/marimo) - Reactive Python notebook stored as pure .py files with built-in AI assistant. ![GitHub stars](https://img.shields.io/github/stars/marimo-team/marimo?style=flat-square)
@@ -75,8 +80,15 @@ _Build automated research pipelines — from data collection to analysis to repo
 - [Agno](https://github.com/agno-agi/agno) - Open-source Python framework with memory, knowledge, and 100+ toolkits including MCP support. ![GitHub stars](https://img.shields.io/github/stars/agno-agi/agno?style=flat-square)
 - [AutoGen](https://github.com/microsoft/autogen) - Microsoft's multi-agent conversation framework for complex research workflows. ![GitHub stars](https://img.shields.io/github/stars/microsoft/autogen?style=flat-square)
 - [CrewAI](https://www.crewai.com/) - Role-based multi-agent systems for collaborative research workflows.
+- [DeerFlow](https://github.com/bytedance/deer-flow) - ByteDance's research SuperAgent for long-horizon tasks with sandboxed code execution. ![GitHub stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square)
+- [DSPy](https://github.com/stanfordnlp/dspy) - Stanford framework for programmatic LLM optimization — "programming, not prompting." ![GitHub stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=flat-square)
+- [Google ADK](https://github.com/google/adk-python) - Google's modular multi-agent framework with MCP and A2A protocol support. ![GitHub stars](https://img.shields.io/github/stars/google/adk-python?style=flat-square)
+- [GPT Researcher](https://github.com/assafelovic/gpt-researcher) - Autonomous deep research agent producing cited reports from web sources. ![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=flat-square)
 - [LangGraph](https://langchain-ai.github.io/langgraph/) - Stateful agent workflows with cyclic graphs; 6M+ monthly downloads.
+- [MetaGPT](https://github.com/geekan/MetaGPT) - Multi-agent framework simulating roles (PM, analyst, engineer) with structured SOPs. ![GitHub stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=flat-square)
+- [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) - Lightweight production-ready multi-agent framework with handoffs and guardrails. ![GitHub stars](https://img.shields.io/github/stars/openai/openai-agents-python?style=flat-square)
 - [Pydantic AI](https://ai.pydantic.dev/) - Type-safe agent framework with structured input/output, ideal for working with economic data.
+- [smolagents](https://github.com/huggingface/smolagents) - Hugging Face's minimalist agent library where agents write actions as Python code. ![GitHub stars](https://img.shields.io/github/stars/huggingface/smolagents?style=flat-square)
 
 [Back to top](#contents)
 
@@ -89,6 +101,7 @@ _Build automated research pipelines — from data collection to analysis to repo
 - [awesome-causal-inference](https://github.com/matteocourthoud/awesome-causal-inference) - The definitive causal inference resource list. ![GitHub stars](https://img.shields.io/github/stars/matteocourthoud/awesome-causal-inference?style=flat-square)
 - [causal-learn](https://github.com/py-why/causal-learn) - Causal discovery algorithms (PC, FCI, GES) from the PyWhy ecosystem. ![GitHub stars](https://img.shields.io/github/stars/py-why/causal-learn?style=flat-square)
 - [CausalML](https://github.com/uber/causalml) - Uber's uplift modeling and causal inference with machine learning. ![GitHub stars](https://img.shields.io/github/stars/uber/causalml?style=flat-square)
+- [CausalPy](https://github.com/pymc-labs/CausalPy) - Bayesian causal inference for quasi-experiments (DiD, synthetic control, RDD) powered by PyMC. ![GitHub stars](https://img.shields.io/github/stars/pymc-labs/CausalPy?style=flat-square)
 - [DoubleML](https://docs.doubleml.org/) - Chernozhukov et al. (2018) Double/Debiased ML in Python and R.
 - [DoWhy](https://github.com/py-why/dowhy) - End-to-end causal inference: model, identify, estimate, refute. ![GitHub stars](https://img.shields.io/github/stars/py-why/dowhy?style=flat-square)
 - [EconML](https://github.com/py-why/EconML) - Microsoft/PyWhy library for heterogeneous treatment effects via Double ML and causal forests. ![GitHub stars](https://img.shields.io/github/stars/py-why/EconML?style=flat-square)
@@ -125,10 +138,13 @@ _Build automated research pipelines — from data collection to analysis to repo
 - [Chronos](https://github.com/amazon-science/chronos-forecasting) - Amazon's pretrained time series models with Bolt variant for 250x speedup. ![GitHub stars](https://img.shields.io/github/stars/amazon-science/chronos-forecasting?style=flat-square)
 - [Durbyn.jl](https://github.com/taf-society/Durbyn.jl) - Julia port of R's forecast package. ![GitHub stars](https://img.shields.io/github/stars/taf-society/Durbyn.jl?style=flat-square)
 - [emerging-trajectories](https://github.com/wgryc/emerging-trajectories) - LLM-based forecasting of political and economic events. ![GitHub stars](https://img.shields.io/github/stars/wgryc/emerging-trajectories?style=flat-square)
+- [Lag-Llama](https://github.com/time-series-foundation-models/lag-llama) - First open-source foundation model for probabilistic time series forecasting. ![GitHub stars](https://img.shields.io/github/stars/time-series-foundation-models/lag-llama?style=flat-square)
 - [neuralforecast](https://github.com/Nixtla/neuralforecast) - Neural forecasting models (N-BEATS, NHITS, Transformers) for economic time series. ![GitHub stars](https://img.shields.io/github/stars/Nixtla/neuralforecast?style=flat-square)
 - [Now-Casting.com](https://www.now-casting.com/) - Real-time GDP nowcasts for major economies, updated as data releases occur.
 - [Project Spectrum](https://www.bis.org/about/bisih/topics/suptech_regtech/spectrum.htm) - BIS/ECB/Bundesbank GenAI for inflation nowcasting, categorizing 34M+ products for CPI.
 - [statsforecast](https://github.com/Nixtla/statsforecast) - Fast statistical forecasting for econometric time series. ![GitHub stars](https://img.shields.io/github/stars/Nixtla/statsforecast?style=flat-square)
+- [TimeGPT](https://github.com/Nixtla/nixtla) - Nixtla's foundation model for time series trained on 100B+ data points. ![GitHub stars](https://img.shields.io/github/stars/Nixtla/nixtla?style=flat-square)
+- [TimesFM](https://github.com/google-research/timesfm) - Google's decoder-only time series foundation model pre-trained on 400B+ time points. ![GitHub stars](https://img.shields.io/github/stars/google-research/timesfm?style=flat-square)
 - [uni2ts](https://github.com/SalesforceAIResearch/uni2ts) - Unified time series transformer models. ![GitHub stars](https://img.shields.io/github/stars/SalesforceAIResearch/uni2ts?style=flat-square)
 
 ### Game Theory and Mechanism Design
@@ -202,6 +218,8 @@ _Build automated research pipelines — from data collection to analysis to repo
 
 - [Docling](https://github.com/docling-project/docling) - IBM open-source document parser with 0.97 table recognition accuracy. ![GitHub stars](https://img.shields.io/github/stars/docling-project/docling?style=flat-square)
 - [Marker](https://github.com/datalab-to/marker) - PDF to Markdown/JSON at 122 pages/sec with multi-page table merging. ![GitHub stars](https://img.shields.io/github/stars/datalab-to/marker?style=flat-square)
+- [MinerU](https://github.com/opendatalab/MinerU) - PDF, web, and e-book content extraction with OCR for 84 languages. ![GitHub stars](https://img.shields.io/github/stars/opendatalab/MinerU?style=flat-square)
+- [OlmOCR](https://github.com/allenai/olmocr) - Allen AI's fully open-source OCR with SOTA accuracy on tables, equations, and handwriting. ![GitHub stars](https://img.shields.io/github/stars/allenai/olmocr?style=flat-square)
 - [Mistral OCR 3](https://mistral.ai/news/mistral-ocr-3) - $1–2 per 1,000 pages with support for cursive, complex tables, and low DPI.
 - [Transkribus](https://www.transkribus.org/) - Handwritten historical document transcription with 140+ AI models in 100+ languages.
 
@@ -211,6 +229,8 @@ _Build automated research pipelines — from data collection to analysis to repo
 
 ## NLP and Sentiment for Economics
 
+- [CentralBankRoBERTa](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa) - Fine-tuned RoBERTa for sentiment classification in central bank communications. ![GitHub stars](https://img.shields.io/github/stars/Moritz-Pfeifer/CentralBankRoBERTa?style=flat-square)
+- [EconBERTa](https://github.com/worldbank/econberta-econie) - World Bank DeBERTa trained on 9.4B tokens from 1.5M economics papers with NER. ![GitHub stars](https://img.shields.io/github/stars/worldbank/econberta-econie?style=flat-square)
 - [FinBERT](https://huggingface.co/ProsusAI/finbert) - Fine-tuned BERT for financial sentiment, widely cited in economics and finance research.
 - [FinSentGPT](https://www.sciencedirect.com/science/article/pii/S1057521924002230) - Fine-tuned ChatGPT for multilingual financial sentiment, tested on ECB Monetary Policy Decisions.
 - [FinVADER](https://github.com/PetrKorab/FinVADER) - VADER updated with financial lexicons. ![GitHub stars](https://img.shields.io/github/stars/PetrKorab/FinVADER?style=flat-square)
@@ -224,8 +244,10 @@ _Build automated research pipelines — from data collection to analysis to repo
 
 ### Policy and Evidence Synthesis
 
+- [EUROMOD](https://euromod-web.jrc.ec.europa.eu/) - EU tax-benefit microsimulation covering all 27 member states (open-source, EUPL-1.2).
 - [ImpactAI](https://impactai.worldbank.org/) - World Bank DIME tool synthesizing RCT evidence with effect sizes across interventions.
 - [Meta-Mar](https://www.meta-mar.com/) - Free meta-analysis platform where AI reads PDFs and extracts quantitative outcomes.
+- [OpenFisca](https://openfisca.readthedocs.io/) - Open-source microsimulation engine for computing taxes and benefits on population data.
 - [Plural Policy](https://pluralpolicy.com/) - AI bill summarizer with version comparison and momentum indicators across U.S. jurisdictions.
 - [PolicyEngine](https://github.com/PolicyEngine/policyengine-us) - Open-source U.S. tax-benefit microsimulation. ![GitHub stars](https://img.shields.io/github/stars/PolicyEngine/policyengine-us?style=flat-square)
 - [Rayyan](https://www.rayyan.ai/) - AI screening for systematic reviews with 90% time reduction and PRISMA flowcharts.
@@ -253,6 +275,7 @@ _Build automated research pipelines — from data collection to analysis to repo
 - [Dexter](https://github.com/virattt/dexter) - Autonomous financial research agent with task planning and real-time data. ![GitHub stars](https://img.shields.io/github/stars/virattt/dexter?style=flat-square)
 - [Fin-R1](https://github.com/SUFE-AIFLM-Lab/Fin-R1) - Financial reasoning LLM by Shanghai University of Finance and Economics. ![GitHub stars](https://img.shields.io/github/stars/SUFE-AIFLM-Lab/Fin-R1?style=flat-square)
 - [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Open-source financial LLMs for sentiment, forecasting, and reports. ![GitHub stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinGPT?style=flat-square)
+- [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - AI agent platform for financial analysis combining LLMs, RL, and quantitative methods. ![GitHub stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=flat-square)
 - [OpenBB](https://github.com/OpenBB-finance/OpenBBTerminal) - Open-source financial research platform with AI copilot and economic data integration. ![GitHub stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBBTerminal?style=flat-square)
 
 [Back to top](#contents)
@@ -263,6 +286,7 @@ _Build automated research pipelines — from data collection to analysis to repo
 
 ### Web Scraping
 
+- [Crawl4AI](https://github.com/unclecode/crawl4ai) - Open-source web crawler producing LLM-ready markdown for RAG and data pipelines. ![GitHub stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=flat-square)
 - [Firecrawl](https://www.firecrawl.dev/) - Webpages to structured markdown with AI extraction endpoint.
 - [Kadoa](https://www.kadoa.com/) - No-code AI extraction for financial and economic data.
 - [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - LLM-powered scraping that adapts to website changes automatically. ![GitHub stars](https://img.shields.io/github/stars/ScrapeGraphAI/Scrapegraph-ai?style=flat-square)
@@ -280,6 +304,7 @@ _Build automated research pipelines — from data collection to analysis to repo
 
 - [Gretel](https://www.gretel.ai/) - Synthetic data with differential privacy. [Open-source library](https://github.com/gretelai/gretel-synthetics).
 - [MOSTLY AI](https://mostly.ai/) - High-fidelity synthetic datasets with GDPR/HIPAA compliance.
+- [SDV](https://github.com/sdv-dev/SDV) - Open-source synthetic data generation with CTGAN, CopulaGAN, and GaussianCopula models. ![GitHub stars](https://img.shields.io/github/stars/sdv-dev/SDV?style=flat-square)
 
 [Back to top](#contents)
 
