@@ -173,7 +173,7 @@ _Build automated research pipelines — from data collection to analysis to repo
 ### Economic Data Sources
 
 - [**OpenEcon Data**](https://openecon.ai/) - Query 330,000+ economic indicators from FRED, World Bank, IMF, Comtrade, StatsCan, Eurostat, BIS, and more in plain English. Export to CSV, JSON, DTA, or Python. [Try it](https://data.openecon.ai) | [GitHub](https://github.com/hanlulong/openecon-data) | [MCP Server](https://github.com/hanlulong/openecon-data) ![GitHub stars](https://img.shields.io/github/stars/hanlulong/openecon-data?style=flat-square)
-- [fedfred](https://github.com/nsunder724/fedfred) - Modern Python client for the FRED API at scale. ![GitHub stars](https://img.shields.io/github/stars/nsunder724/fedfred?style=flat-square)
+- [fedfred](https://github.com/nikhilxsunder/fedfred) - Modern Python client for the FRED API at scale. ![GitHub stars](https://img.shields.io/github/stars/nikhilxsunder/fedfred?style=flat-square)
 - [FRED API v2](https://fred.stlouisfed.org/docs/api/fred/) - Bulk retrieval of all series in any release across 800,000+ time series.
 - [Global Macro Database](https://www.globalmacrodata.com/) - Most comprehensive open-source macro dataset: 241 countries, 1086–2024, 27 contemporary and 84 historical sources.
 - [Trading Economics API](https://tradingeconomics.com/api/) - 300,000+ indicators from 196 countries with Python and R packages.
@@ -300,12 +300,12 @@ _Build automated research pipelines — from data collection to analysis to repo
 - [AI for Economists](https://sites.google.com/view/lastunen/ai-for-economists) - Jesse Lastunen's prompt-focused templates.
 - [Data Analysis with AI v2.0](https://gabors-data-analysis.com/ai-course/) - Gabor Bekes, CEU Vienna (2026). 12-week course covering LLMs for IV, DiD, and simulations.
 - [EconDL](https://dell-research-harvard.github.io/projects/384econdl) - Melissa Dell's Jupyter notebooks for deep learning in economics.
-- [Economics of Transformative AI](https://digitaleconomy.stanford.edu/etai-course/) - Stanford course with slides and exercises.
+- [Economics of Transformative AI](https://digitaleconomy.stanford.edu/about/education/the-economics-of-transformative-ai/) - Stanford course with slides and exercises.
 - [genaiforecon.org](https://www.genaiforecon.org/) - Korinek's companion site with semi-annual updates on tools and techniques.
 - [ML and Causal Inference](https://www.gsb.stanford.edu/faculty-research/labs-initiatives/sil/research/methods/ai-machine-learning/short-course) - Susan Athey, Stanford GSB.
 - [ML and Economics at Oxford](https://maxkasy.github.io/home/ML_Econ_Oxford/) - Maximilian Kasy's reading group.
 - [The Economics of AI](https://www.coursera.org/learn/economics-of-ai) - Korinek, UVA on Coursera.
-- [Using AI in Research and Teaching](https://github.com/paulgp/using-ai-in-research-and-teaching) - Paul Goldsmith-Pinkham, Yale SOM. ![GitHub stars](https://img.shields.io/github/stars/paulgp/using-ai-in-research-and-teaching?style=flat-square)
+- [Using AI in Research and Teaching](https://paulgp.substack.com/p/using-ai-in-research-and-teaching) - Paul Goldsmith-Pinkham, Yale SOM.
 
 ### Conferences (2025–2026)
 
@@ -322,7 +322,7 @@ _Build automated research pipelines — from data collection to analysis to repo
 
 **People:** [Anton Korinek](https://genaiforecon.org/) | [Scott Cunningham](https://causalinf.substack.com/) | [Erik Brynjolfsson](https://twitter.com/erikbryn) | [Antonio Mele](https://github.com/meleantonio/awesome-econ-ai-stuff) | [Melissa Dell](https://dell-research-harvard.github.io/) | [Sendhil Mullainathan](https://sendhil.org/)
 
-**Institutions:** [NBER AI](https://www.nber.org/topics/artificial-intelligence) | [Stanford DEL](https://digitaleconomy.stanford.edu/) | [OECD.AI](https://oecd.ai/) | [World Bank ImpactAI](https://impactai.worldbank.org/)
+**Institutions:** [NBER AI](https://www.nber.org/programs-projects/projects-and-centers/economics-digitization) | [Stanford DEL](https://digitaleconomy.stanford.edu/) | [OECD.AI](https://oecd.ai/) | [World Bank ImpactAI](https://impactai.worldbank.org/)
 
 ## Appendix: General-Purpose AI
 
