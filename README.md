@@ -168,13 +168,19 @@ _Build automated research pipelines — from data collection to analysis to repo
 ## Literature Review and Research Discovery
 
 - [alphaXiv](https://www.alphaxiv.org/) - Line-by-line discussion on arXiv papers with AI-powered analysis.
+- [ASReview](https://github.com/asreview/asreview) - Active learning for systematic reviews, reducing screening time by up to 95% (Nature Machine Intelligence). ![GitHub stars](https://img.shields.io/github/stars/asreview/asreview?style=flat-square)
 - [Connected Papers](https://www.connectedpapers.com/) - Visual graphs of related papers from a seed paper.
 - [Consensus](https://consensus.app/) - Evidence meter categorizing findings as yes/no/mixed across 200M+ papers.
 - [Elicit](https://elicit.com/) - Research agents synthesizing up to 80 papers into structured briefs from 138M papers.
+- [Inciteful](https://inciteful.xyz/) - Free citation network analysis using graph algorithms to find key papers and connections.
+- [OpenAlex](https://openalex.org/) - Fully open catalog of 477M+ scholarly works with free REST API and semantic search.
+- [OpenScholar](https://github.com/AkariAsai/OpenScholar) - Retrieval-augmented LM for scientific literature synthesis across 45M+ papers (Nature 2026). ![GitHub stars](https://img.shields.io/github/stars/AkariAsai/OpenScholar?style=flat-square)
+- [PaperQA2](https://github.com/Future-House/paper-qa) - RAG system achieving superhuman accuracy on scientific literature search tasks. ![GitHub stars](https://img.shields.io/github/stars/Future-House/paper-qa?style=flat-square)
 - [ResearchRabbit](https://www.researchrabbit.ai/) - Citation network and semantic similarity discovery rebuilt with Litmaps.
 - [SciSpace](https://typeset.io/) - Deep review with iterative search and Zotero integration across 280M papers.
 - [Scite](https://scite.ai/) - Classifies 1.5B+ citations as supporting or contrasting with AI-driven research rankings.
 - [Semantic Scholar](https://www.semanticscholar.org/) - AI-powered academic search with citation analysis, TLDR summaries, and free API across 220M+ papers.
+- [STORM](https://github.com/stanford-oval/storm) - Stanford's LLM-powered system that researches topics and generates full reports with citations. ![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=flat-square)
 - [Undermind](https://www.undermind.ai/) - Autonomously reads hundreds of papers and produces structured reports with timelines and categories.
 
 [Back to top](#contents)
@@ -209,6 +215,7 @@ _Build automated research pipelines — from data collection to analysis to repo
 - [Thesify](https://www.thesify.ai/) - AI reviewer evaluating argumentation, methodology, and rigor.
 - [Typst](https://typst.app/) - Modern LaTeX alternative with dramatically simpler syntax and sub-second compilation.
 - [Underleaf](https://www.underleaf.ai/) - Chrome extension for image-to-LaTeX and smart citation generation.
+- [Zotero PapersGPT](https://github.com/papersgpt/papersgpt-for-zotero) - Zotero AI plugin supporting ChatGPT, Claude, Gemini, and more for PDF chat and summaries. ![GitHub stars](https://img.shields.io/github/stars/papersgpt/papersgpt-for-zotero?style=flat-square)
 
 [Back to top](#contents)
 
