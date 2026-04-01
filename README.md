@@ -1,6 +1,5 @@
-# Awesome AI for Economists
+# Awesome AI for Economists [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Last Commit](https://img.shields.io/github/last-commit/hanlulong/awesome-ai-for-economists)](https://github.com/hanlulong/awesome-ai-for-economists/commits/main)
@@ -16,8 +15,6 @@ A curated list of AI tools, libraries, and resources transforming how economists
 > - **[OpenEcon Data](https://openecon.ai/)** — Query 330,000+ economic indicators from FRED, World Bank, IMF, and 10+ sources in plain English. Available as [web app](https://data.openecon.ai), Python API, and [MCP server](https://github.com/hanlulong/openecon-data).
 > - **[Stata-MCP](https://github.com/hanlulong/stata-mcp)** — Run Stata from VS Code, Cursor, Claude Code, and GitHub Copilot with real-time output, data viewer, and graph display. ![Stars](https://img.shields.io/github/stars/hanlulong/stata-mcp?style=flat-square)
 > - **[Econ Writing Skill](https://github.com/hanlulong/econ-writing-skill)** — AI agent skill for writing economics papers, synthesizing 50+ guides by Cochrane, McCloskey, Shapiro, Head, and other leading economists.
-
----
 
 ## Contents
 
@@ -37,8 +34,6 @@ A curated list of AI tools, libraries, and resources transforming how economists
 - [Courses, Conferences and Community](#courses-conferences-and-community)
 - [Appendix: General-Purpose AI](#appendix-general-purpose-ai)
 
----
-
 ## MCP Servers for Economic Data
 
 [Model Context Protocol](https://modelcontextprotocol.io/) (MCP) servers let AI assistants query economic databases directly. Connect Claude, Cursor, or other MCP-compatible tools to live data from FRED, World Bank, IMF, and more.
@@ -57,10 +52,6 @@ A curated list of AI tools, libraries, and resources transforming how economists
 - [World Bank MCP Server](https://github.com/anshumax/world_bank_mcp_server) - Query World Bank Open Data API for development indicators across countries. ![GitHub stars](https://img.shields.io/github/stars/anshumax/world_bank_mcp_server?style=flat-square)
 
 > Browse the [MCP Registry](https://registry.modelcontextprotocol.io/) to discover more servers.
-
-[Back to top](#contents)
-
----
 
 ## Coding Tools for Economists
 
@@ -90,10 +81,6 @@ _Build automated research pipelines — from data collection to analysis to repo
 - [Pydantic AI](https://ai.pydantic.dev/) - Type-safe agent framework with structured input/output, ideal for working with economic data.
 - [smolagents](https://github.com/huggingface/smolagents) - Hugging Face's minimalist agent library where agents write actions as Python code. ![GitHub stars](https://img.shields.io/github/stars/huggingface/smolagents?style=flat-square)
 
-[Back to top](#contents)
-
----
-
 ## Causal Inference and Econometrics
 
 ### Core Libraries
@@ -119,10 +106,6 @@ _Build automated research pipelines — from data collection to analysis to repo
 - [moderndid](https://github.com/jordandeklerk/moderndid) - GPU-accelerated modern DiD with staggered adoption and event studies. ![GitHub stars](https://img.shields.io/github/stars/jordandeklerk/moderndid?style=flat-square)
 - [Salesforce CausalAI](https://github.com/salesforce/causalai) - Causal analysis for time series and tabular data. ![GitHub stars](https://img.shields.io/github/stars/salesforce/causalai?style=flat-square)
 - [TexIV](https://github.com/SepineTam/TexIV) - Extract instrumental variables from text data using ML. ![GitHub stars](https://img.shields.io/github/stars/SepineTam/TexIV?style=flat-square)
-
-[Back to top](#contents)
-
----
 
 ## Simulation, Forecasting and Macro Modeling
 
@@ -161,10 +144,6 @@ _Build automated research pipelines — from data collection to analysis to repo
 - [OpenSourceEconomics](https://github.com/OpenSourceEconomics) - JAX-compatible DC-EGM, Kalman filters, and econ-project-templates.
 - [optimagic](https://github.com/optimagic-dev/optimagic) - Numerical optimization for economists (formerly estimagic). ![GitHub stars](https://img.shields.io/github/stars/optimagic-dev/optimagic?style=flat-square)
 
-[Back to top](#contents)
-
----
-
 ## Literature Review and Research Discovery
 
 - [alphaXiv](https://www.alphaxiv.org/) - Line-by-line discussion on arXiv papers with AI-powered analysis.
@@ -173,6 +152,7 @@ _Build automated research pipelines — from data collection to analysis to repo
 - [Consensus](https://consensus.app/) - Evidence meter categorizing findings as yes/no/mixed across 200M+ papers.
 - [Elicit](https://elicit.com/) - Research agents synthesizing up to 80 papers into structured briefs from 138M papers.
 - [Inciteful](https://inciteful.xyz/) - Free citation network analysis using graph algorithms to find key papers and connections.
+- [Litmaps](https://www.litmaps.com/) - Dynamic multi-seed citation mapping with monitored searches and daily alerts for new papers.
 - [OpenAlex](https://openalex.org/) - Fully open catalog of 477M+ scholarly works with free REST API and semantic search.
 - [OpenScholar](https://github.com/AkariAsai/OpenScholar) - Retrieval-augmented LM for scientific literature synthesis across 45M+ papers (Nature 2026). ![GitHub stars](https://img.shields.io/github/stars/AkariAsai/OpenScholar?style=flat-square)
 - [PaperQA2](https://github.com/Future-House/paper-qa) - RAG system achieving superhuman accuracy on scientific literature search tasks. ![GitHub stars](https://img.shields.io/github/stars/Future-House/paper-qa?style=flat-square)
@@ -182,10 +162,6 @@ _Build automated research pipelines — from data collection to analysis to repo
 - [Semantic Scholar](https://www.semanticscholar.org/) - AI-powered academic search with citation analysis, TLDR summaries, and free API across 220M+ papers.
 - [STORM](https://github.com/stanford-oval/storm) - Stanford's LLM-powered system that researches topics and generates full reports with citations. ![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=flat-square)
 - [Undermind](https://www.undermind.ai/) - Autonomously reads hundreds of papers and produces structured reports with timelines and categories.
-
-[Back to top](#contents)
-
----
 
 ## Economic Data and Analysis
 
@@ -202,37 +178,27 @@ _Build automated research pipelines — from data collection to analysis to repo
 - [Global Macro Database](https://www.globalmacrodata.com/) - Most comprehensive open-source macro dataset: 241 countries, 1086–2024, 27 contemporary and 84 historical sources.
 - [Trading Economics API](https://tradingeconomics.com/api/) - 300,000+ indicators from 196 countries with Python and R packages.
 
-[Back to top](#contents)
-
----
-
 ## Academic Writing and LaTeX
 
 - [**Econ Writing Skill**](https://github.com/hanlulong/econ-writing-skill) - Agent skill that transforms AI assistants into expert economics paper writers. Synthesizes 50+ guides by Cochrane, McCloskey, Shapiro, Head, Bellemare, Goldin, and other leading economists. Works with Claude Code and OpenAI Codex. ![GitHub stars](https://img.shields.io/github/stars/hanlulong/econ-writing-skill?style=flat-square)
 - [OpenAI Prism](https://openai.com/prism/) - Free LaTeX workspace with citation management, Zotero sync, sketch-to-equation, and real-time collaboration.
 - [Overleaf AI Assist](https://www.overleaf.com/about/ai-features) - LaTeX error fixing, table generation, and equation generation from prompts or images.
 - [Paperpal](https://paperpal.com/) - Academic writing assistant on Overleaf, Google Docs, and Chrome.
+- [Refine.ink](https://www.refine.ink/) - AI referee generating peer-review-quality feedback on academic papers, piloting with top economics journals.
 - [Thesify](https://www.thesify.ai/) - AI reviewer evaluating argumentation, methodology, and rigor.
 - [Typst](https://typst.app/) - Modern LaTeX alternative with dramatically simpler syntax and sub-second compilation.
 - [Underleaf](https://www.underleaf.ai/) - Chrome extension for image-to-LaTeX and smart citation generation.
 - [Zotero PapersGPT](https://github.com/papersgpt/papersgpt-for-zotero) - Zotero AI plugin supporting ChatGPT, Claude, Gemini, and more for PDF chat and summaries. ![GitHub stars](https://img.shields.io/github/stars/papersgpt/papersgpt-for-zotero?style=flat-square)
 
-[Back to top](#contents)
-
----
-
 ## Document Processing and OCR
 
 - [Docling](https://github.com/docling-project/docling) - IBM open-source document parser with 0.97 table recognition accuracy. ![GitHub stars](https://img.shields.io/github/stars/docling-project/docling?style=flat-square)
 - [Marker](https://github.com/datalab-to/marker) - PDF to Markdown/JSON at 122 pages/sec with multi-page table merging. ![GitHub stars](https://img.shields.io/github/stars/datalab-to/marker?style=flat-square)
+- [Mathpix](https://mathpix.com/) - Screenshot-to-LaTeX OCR for equations, tables, and diagrams with PDF-to-Overleaf conversion.
 - [MinerU](https://github.com/opendatalab/MinerU) - PDF, web, and e-book content extraction with OCR for 84 languages. ![GitHub stars](https://img.shields.io/github/stars/opendatalab/MinerU?style=flat-square)
 - [OlmOCR](https://github.com/allenai/olmocr) - Allen AI's fully open-source OCR with SOTA accuracy on tables, equations, and handwriting. ![GitHub stars](https://img.shields.io/github/stars/allenai/olmocr?style=flat-square)
 - [Mistral OCR 3](https://mistral.ai/news/mistral-ocr-3) - $1–2 per 1,000 pages with support for cursive, complex tables, and low DPI.
 - [Transkribus](https://www.transkribus.org/) - Handwritten historical document transcription with 140+ AI models in 100+ languages.
-
-[Back to top](#contents)
-
----
 
 ## NLP and Sentiment for Economics
 
@@ -242,10 +208,6 @@ _Build automated research pipelines — from data collection to analysis to repo
 - [FinSentGPT](https://www.sciencedirect.com/science/article/pii/S1057521924002230) - Fine-tuned ChatGPT for multilingual financial sentiment, tested on ECB Monetary Policy Decisions.
 - [FinVADER](https://github.com/PetrKorab/FinVADER) - VADER updated with financial lexicons. ![GitHub stars](https://img.shields.io/github/stars/PetrKorab/FinVADER?style=flat-square)
 - [SentiBigNomics](https://github.com/consose/SentiBigNomics) - Sentiment analysis designed for economic text with aspect-based and negation handling. ![GitHub stars](https://img.shields.io/github/stars/consose/SentiBigNomics?style=flat-square)
-
-[Back to top](#contents)
-
----
 
 ## Policy, Labor and Alternative Data
 
@@ -272,10 +234,6 @@ _Build automated research pipelines — from data collection to analysis to repo
 - [Neudata](https://www.neudata.co/) - Alternative data intelligence cataloging thousands of non-traditional data sources.
 - [Stanford Satellite + AI](https://sustainability.stanford.edu/news/satellite-imagery-and-ai-reveal-development-needs-hidden-national-data) - HDI for 61,530 municipalities from satellite imagery (Nature Communications, 2026).
 
-[Back to top](#contents)
-
----
-
 ## Finance-Specific AI
 
 - [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - Curated quantitative finance resources. ![GitHub stars](https://img.shields.io/github/stars/wilsonfreitas/awesome-quant?style=flat-square)
@@ -284,10 +242,6 @@ _Build automated research pipelines — from data collection to analysis to repo
 - [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Open-source financial LLMs for sentiment, forecasting, and reports. ![GitHub stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinGPT?style=flat-square)
 - [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - AI agent platform for financial analysis combining LLMs, RL, and quantitative methods. ![GitHub stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=flat-square)
 - [OpenBB](https://github.com/OpenBB-finance/OpenBBTerminal) - Open-source financial research platform with AI copilot and economic data integration. ![GitHub stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBBTerminal?style=flat-square)
-
-[Back to top](#contents)
-
----
 
 ## Data Collection Tools
 
@@ -301,6 +255,7 @@ _Build automated research pipelines — from data collection to analysis to repo
 ### Survey and Qualitative Research
 
 - [ATLAS.ti](https://atlasti.com/) - AI-powered qualitative coding reducing manual effort by 90%.
+- [Anthropic Interviewer](https://www.anthropic.com/research/anthropic-interviewer) - AI-conducted adaptive qualitative interviews at scale across 159 countries.
 - [Conveo](https://conveo.ai/) - AI video interviews with multimodal analysis at scale.
 - [Outset AI](https://outset.ai/) - Hundreds of AI-moderated interviews simultaneously in 40+ languages.
 - [TheySaid](https://www.theysaid.io) - AI-moderated surveys with conversational follow-ups.
@@ -312,10 +267,6 @@ _Build automated research pipelines — from data collection to analysis to repo
 - [Gretel](https://www.gretel.ai/) - Synthetic data with differential privacy. [Open-source library](https://github.com/gretelai/gretel-synthetics).
 - [MOSTLY AI](https://mostly.ai/) - High-fidelity synthetic datasets with GDPR/HIPAA compliance.
 - [SDV](https://github.com/sdv-dev/SDV) - Open-source synthetic data generation with CTGAN, CopulaGAN, and GaussianCopula models. ![GitHub stars](https://img.shields.io/github/stars/sdv-dev/SDV?style=flat-square)
-
-[Back to top](#contents)
-
----
 
 ## Papers and Books
 
@@ -338,13 +289,9 @@ _Build automated research pipelines — from data collection to analysis to repo
 
 ### Books
 
-- **[Deep Learning for Economists](https://dell-research-harvard.github.io/projects/384econdl)** - Melissa Dell, JEL 2025 with companion Jupyter notebooks.
-- **[The Means of Prediction](https://www.amazon.com/Means-Prediction-Really-Works-Benefits-ebook/dp/B0FJ2NZW7D)** - Maximilian Kasy. How AI works and who benefits (UChicago Press, 2025).
-- **[The Scaling Era](https://www.dwarkesh.com/podcast)** - Dwarkesh Patel. Oral history from Amodei, Hassabis, and Zuckerberg interviews.
-
-[Back to top](#contents)
-
----
+- [Deep Learning for Economists](https://dell-research-harvard.github.io/projects/384econdl) - Melissa Dell, JEL 2025 with companion Jupyter notebooks.
+- [The Means of Prediction](https://www.amazon.com/Means-Prediction-Really-Works-Benefits-ebook/dp/B0FJ2NZW7D) - Maximilian Kasy on how AI works and who benefits (UChicago Press, 2025).
+- [The Scaling Era](https://www.dwarkesh.com/podcast) - Dwarkesh Patel's oral history from Amodei, Hassabis, and Zuckerberg interviews.
 
 ## Courses, Conferences and Community
 
@@ -377,13 +324,9 @@ _Build automated research pipelines — from data collection to analysis to repo
 
 **Institutions:** [NBER AI](https://www.nber.org/topics/artificial-intelligence) | [Stanford DEL](https://digitaleconomy.stanford.edu/) | [OECD.AI](https://oecd.ai/) | [World Bank ImpactAI](https://impactai.worldbank.org/)
 
-[Back to top](#contents)
-
----
-
 ## Appendix: General-Purpose AI
 
-*Widely known tools listed for completeness with notes on what economists specifically value.*
+_Widely known tools listed for completeness with notes on what economists specifically value._
 
 | Tool | Best For (Economists) |
 |------|----------------------|
@@ -398,18 +341,6 @@ _Build automated research pipelines — from data collection to analysis to repo
 | [OpenAI Codex](https://openai.com/codex/) | Parallel task execution with reusable agent skills |
 | [Perplexity AI](https://www.perplexity.ai/) | Academic Focus mode filtering for peer-reviewed journals |
 
-[Back to top](#contents)
-
----
-
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
-
----
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.
