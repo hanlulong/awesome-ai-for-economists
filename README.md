@@ -176,6 +176,7 @@ _Build automated research pipelines — from data collection to analysis to repo
 - [fedfred](https://github.com/nikhilxsunder/fedfred) - Modern Python client for the FRED API at scale. ![GitHub stars](https://img.shields.io/github/stars/nikhilxsunder/fedfred?style=flat-square)
 - [FRED API v2](https://fred.stlouisfed.org/docs/api/fred/) - Bulk retrieval of all series in any release across 800,000+ time series.
 - [Global Macro Database](https://www.globalmacrodata.com/) - Most comprehensive open-source macro dataset: 241 countries, 1086–2024, 27 contemporary and 84 historical sources.
+- [FXMacroData](https://fxmacrodata.com) - API and MCP server for macroeconomic announcements, release calendars, FX, COT, commodities, bond yields, and related macro datasets across 18 currencies.
 - [Trading Economics API](https://tradingeconomics.com/api/) - 300,000+ indicators from 196 countries with Python and R packages.
 
 ## Academic Writing and LaTeX
