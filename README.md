@@ -162,6 +162,7 @@ _Build automated research pipelines — from data collection to analysis to repo
 - [Semantic Scholar](https://www.semanticscholar.org/) - AI-powered academic search with citation analysis, TLDR summaries, and free API across 220M+ papers.
 - [STORM](https://github.com/stanford-oval/storm) - Stanford's LLM-powered system that researches topics and generates full reports with citations. ![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=flat-square)
 - [Undermind](https://www.undermind.ai/) - Autonomously reads hundreds of papers and produces structured reports with timelines and categories.
+- [MindMap AI](https://mindmapai.app/text-summarizer) - AI-powered tool that transforms research papers, PDFs, videos, and notes into structured visual mind maps for literature review and synthesis.
 
 ## Economic Data and Analysis
 
