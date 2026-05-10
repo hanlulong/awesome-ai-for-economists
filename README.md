@@ -163,6 +163,8 @@ _Build automated research pipelines — from data collection to analysis to repo
 - [STORM](https://github.com/stanford-oval/storm) - Stanford's LLM-powered system that researches topics and generates full reports with citations. ![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=flat-square)
 - [Undermind](https://www.undermind.ai/) - Autonomously reads hundreds of papers and produces structured reports with timelines and categories.
 
+- [Suppr](https://suppr.wilddata.cn/) - AI literature search, document translation, and deep-research platform for researchers, with PubMed/OpenAlex search and Zotero plugin workflow.
+
 ## Economic Data and Analysis
 
 ### AI Data Analysis Platforms
