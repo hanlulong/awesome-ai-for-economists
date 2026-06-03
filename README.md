@@ -269,6 +269,7 @@ _Build automated research pipelines — from data collection to analysis to repo
 
 ### Labor Market Data
 
+- [AI Career Threat Index](https://www.meritforgeai.com/data/ai-career-threat-index/) - Open dataset scoring 76 occupations on AI displacement risk (0–100) with quarterly time series and per-task breakdowns. ![GitHub stars](https://img.shields.io/github/stars/Jott2121/ai-career-threat-index?style=flat-square)
 - [Anthropic Economic Index](https://www.anthropic.com/economic-index) - Open dataset and recurring reports mapping which economic tasks and occupations people use AI for.
 - [Lightcast](https://lightcast.io/) - 2.5B job postings, 800M profiles, and 160+ countries with AI skills taxonomy.
 - [LinkedIn Economic Graph](https://economicgraph.linkedin.com/) - Labor trends, skills migration, and talent matching data for academic researchers.
