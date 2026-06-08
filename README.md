@@ -62,6 +62,7 @@ A curated list of AI tools, libraries, and resources transforming how economists
 
 > Browse the [MCP Registry](https://registry.modelcontextprotocol.io/) to discover more servers.
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP for AI agent wallets on Solana. Verify agent identity and autonomy score before authorizing x402 micropayments in economic research pipelines. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ## Coding Tools for Economists
 
 - [AI-research-setup](https://github.com/hanlulong/AI-research-setup) - Step-by-step guide to setting up Claude Code and Codex for economics research on macOS and Windows. ![GitHub stars](https://img.shields.io/github/stars/hanlulong/AI-research-setup?style=flat-square)
