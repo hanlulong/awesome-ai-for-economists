@@ -16,6 +16,7 @@ A curated list of AI tools, libraries, and resources transforming how economists
 > - **[OpenEcon Data](https://openecon.ai/)** — Query 330,000+ economic indicators from FRED, World Bank, IMF, and 10+ sources in plain English. Available as [web app](https://data.openecon.ai), Python API, and [MCP server](https://github.com/hanlulong/openecon-data). ![GitHub stars](https://img.shields.io/github/stars/hanlulong/openecon-data?style=flat-square)
 > - **[Stata-MCP](https://github.com/hanlulong/stata-mcp)** — Run Stata from VS Code, Cursor, Claude Code, and GitHub Copilot with real-time output, data viewer, and graph display. ![GitHub stars](https://img.shields.io/github/stars/hanlulong/stata-mcp?style=flat-square)
 > - **[Econ Writing Skill](https://github.com/hanlulong/econ-writing-skill)** — AI agent skill for writing economics papers, synthesizing 50+ guides by Cochrane, McCloskey, Shapiro, Head, and other leading economists. ![GitHub stars](https://img.shields.io/github/stars/hanlulong/econ-writing-skill?style=flat-square)
+> - **[Econ Paper Review Skill](https://github.com/hanlulong/econ-paper-review-skill)** — AI referee reports for economics papers: verified comments, editing notes, and a step-by-step revision plan before a real referee sees it. ![GitHub stars](https://img.shields.io/github/stars/hanlulong/econ-paper-review-skill?style=flat-square)
 > - **[overleaf-sync-now](https://github.com/hanlulong/overleaf-sync-now)** — Keeps local LaTeX in sync with Overleaf so AI coding agents never edit a stale paper. ![GitHub stars](https://img.shields.io/github/stars/hanlulong/overleaf-sync-now?style=flat-square)
 
 ## Contents
@@ -219,6 +220,7 @@ _Build automated research pipelines — from data collection to analysis to repo
 ## Academic Writing and LaTeX
 
 - [AI Research Feedback](https://github.com/claesbackman/AI-research-feedback) - Claude Code skills giving multi-agent referee-style feedback on economics papers before submission. ![GitHub stars](https://img.shields.io/github/stars/claesbackman/AI-research-feedback?style=flat-square)
+- [**Econ Paper Review Skill**](https://github.com/hanlulong/econ-paper-review-skill) - Agent skill producing tough, fair referee reports on economics papers — verified comments, editing notes, and a revision plan. Works with Claude Code and OpenAI Codex. ![GitHub stars](https://img.shields.io/github/stars/hanlulong/econ-paper-review-skill?style=flat-square)
 - [**Econ Writing Skill**](https://github.com/hanlulong/econ-writing-skill) - Agent skill for writing economics papers, synthesizing 50+ guides by Cochrane, McCloskey, Shapiro, Head, and others. Works with Claude Code and OpenAI Codex. ![GitHub stars](https://img.shields.io/github/stars/hanlulong/econ-writing-skill?style=flat-square)
 - [OpenAI Prism](https://openai.com/prism/) - Free LaTeX workspace with citation management, Zotero sync, sketch-to-equation, and real-time collaboration.
 - [Overleaf AI Assist](https://www.overleaf.com/about/ai-features) - LaTeX error fixing, table generation, and equation generation from prompts or images.
