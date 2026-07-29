@@ -215,6 +215,7 @@ _Build automated research pipelines — from data collection to analysis to repo
 
 - [**OpenEcon Data**](https://openecon.ai/) - Query 330,000+ economic indicators from FRED, World Bank, IMF, Comtrade, StatsCan, Eurostat, BIS, and more in plain English. Export to CSV, JSON, DTA, or Python. [Try it](https://data.openecon.ai) | [GitHub](https://github.com/hanlulong/openecon-data) ![GitHub stars](https://img.shields.io/github/stars/hanlulong/openecon-data?style=flat-square)
 - [fedfred](https://github.com/nikhilxsunder/fedfred) - Modern Python client for the FRED API at scale. ![GitHub stars](https://img.shields.io/github/stars/nikhilxsunder/fedfred?style=flat-square)
+- [FinancialData.Net](https://financialdata.net/) - API and MCP server for economic indicators, event calendars, stock & ETF prices. ![GitHub stars](https://img.shields.io/github/stars/financialdatanet/fdnpy?style=flat-square)
 - [FRED API v2](https://fred.stlouisfed.org/docs/api/fred/) - Bulk retrieval of all series in any release across 800,000+ time series.
 - [FXMacroData](https://fxmacrodata.com/) - API and MCP server for macroeconomic releases, calendars, FX, commodities, and bond yields, queryable in plain English.
 - [Global Macro Database](https://www.globalmacrodata.com/) - Open-source macro dataset covering 241 countries, 1086–2024, from contemporary and historical sources.
