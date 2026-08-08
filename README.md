@@ -1,4 +1,4 @@
-# Awesome AI for Economists [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+successfully downloaded text file (SHA: 5aa84e352b6aeeadb16fb0abb057714121e4dda4)[Resource from claude.ai GitHub at repo://hanlulong/awesome-ai-for-economists/sha/e63fde7fe9ce6926987e66cf63fd839b3defa61a/contents/README.md] # Awesome AI for Economists [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
@@ -62,6 +62,7 @@ A curated list of AI tools, libraries, and resources transforming how economists
 - [UN Comtrade MCP Server](https://github.com/cyanheads/un-comtrade-mcp-server) - Access UN Comtrade international trade statistics with country and HS commodity code lookup. ![GitHub stars](https://img.shields.io/github/stars/cyanheads/un-comtrade-mcp-server?style=flat-square)
 - [World Bank Data360 MCP](https://github.com/worldbank/data360-mcp) - Official World Bank server giving AI agents structured access to Data360 development indicators. ![GitHub stars](https://img.shields.io/github/stars/worldbank/data360-mcp?style=flat-square)
 - [World Bank MCP Server](https://github.com/anshumax/world_bank_mcp_server) - Community server for the legacy World Bank Open Data API (the official one is World Bank Data360 MCP above). ![GitHub stars](https://img.shields.io/github/stars/anshumax/world_bank_mcp_server?style=flat-square)
+- [YIELD INTELLIGENCE](https://github.com/thebrierfox/yield-intelligence-skill) - Live US Treasury yield intelligence — fetches real-time rates from the Treasury Data API, builds interactive yield curves, and runs bond/CD/savings comparisons via MCP endpoint. No API key required. ![GitHub stars](https://img.shields.io/github/stars/thebrierfox/yield-intelligence-skill?style=flat-square)
 
 > Browse the [MCP Registry](https://registry.modelcontextprotocol.io/) to discover more servers.
 
@@ -300,6 +301,7 @@ _Build automated research pipelines — from data collection to analysis to repo
 - [Open Financial LLM Leaderboard](https://huggingface.co/spaces/TheFinAI/Open-FinLLM-Leaderboard) - Public leaderboard benchmarking LLMs across financial NLP, question answering, and forecasting tasks.
 - [OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open-source financial research platform with AI copilot and economic data integration. ![GitHub stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat-square)
 - [TradingAgents](https://github.com/TauricResearch/TradingAgents) - Multi-agent LLM framework simulating analyst, researcher, trader, and risk-manager roles for trading decisions. ![GitHub stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=flat-square)
+- [YIELD INTELLIGENCE](https://github.com/thebrierfox/yield-intelligence-skill) - Live US Treasury yield curves, bond calculator, and AI-powered passive income optimization — standalone PWA with MCP endpoint for portfolio planning. ![GitHub stars](https://img.shields.io/github/stars/thebrierfox/yield-intelligence-skill?style=flat-square)
 
 ## Data Collection Tools
 
