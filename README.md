@@ -276,6 +276,7 @@ _Build automated research pipelines — from data collection to analysis to repo
 ### Labor Market Data
 
 - [Anthropic Economic Index](https://www.anthropic.com/economic-index) - Open dataset and recurring reports mapping which economic tasks and occupations people use AI for.
+- [Human Edge AI Exposure Dataset](https://github.com/YanivZ1/will-ai-replace-me) - Task-level AI exposure scores and five-year projections for 217 occupations, as CSV and JSON. ![GitHub stars](https://img.shields.io/github/stars/YanivZ1/will-ai-replace-me?style=flat-square)
 - [Lightcast](https://lightcast.io/) - 2.5B job postings, 800M profiles, and 160+ countries with AI skills taxonomy.
 - [LinkedIn Economic Graph](https://economicgraph.linkedin.com/) - Labor trends, skills migration, and talent matching data for academic researchers.
 - [Revelio Labs](https://www.reveliolabs.com/) - 100M+ employment records with academic access via WRDS.
