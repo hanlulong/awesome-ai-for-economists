@@ -279,6 +279,7 @@ _Build automated research pipelines — from data collection to analysis to repo
 - [Lightcast](https://lightcast.io/) - 2.5B job postings, 800M profiles, and 160+ countries with AI skills taxonomy.
 - [LinkedIn Economic Graph](https://economicgraph.linkedin.com/) - Labor trends, skills migration, and talent matching data for academic researchers.
 - [Revelio Labs](https://www.reveliolabs.com/) - 100M+ employment records with academic access via WRDS.
+- [Techmap](https://jobdatafeeds.com/) - 451M+ job postings since 2020 from 185 sources in 250 countries, with free samples on Kaggle and a free API tier.
 
 ### Spatial, Satellite and Alternative Data
 
