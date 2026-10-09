@@ -275,6 +275,7 @@ _Build automated research pipelines — from data collection to analysis to repo
 
 ### Labor Market Data
 
+- [AITraining.jobs open data](https://aitraining.jobs/data) - Daily counts of open AI training jobs (the paid human work of evaluating and labeling data for AI models) by kind of work and platform, with advertised hourly pay, from about 17 platforms' job feeds. JSON and CSV, CC BY 4.0.
 - [Anthropic Economic Index](https://www.anthropic.com/economic-index) - Open dataset and recurring reports mapping which economic tasks and occupations people use AI for.
 - [Lightcast](https://lightcast.io/) - 2.5B job postings, 800M profiles, and 160+ countries with AI skills taxonomy.
 - [LinkedIn Economic Graph](https://economicgraph.linkedin.com/) - Labor trends, skills migration, and talent matching data for academic researchers.
