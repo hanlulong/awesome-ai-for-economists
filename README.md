@@ -218,6 +218,7 @@ _Build automated research pipelines — from data collection to analysis to repo
 - [FRED API v2](https://fred.stlouisfed.org/docs/api/fred/) - Bulk retrieval of all series in any release across 800,000+ time series.
 - [FXMacroData](https://fxmacrodata.com/) - API and MCP server for macroeconomic releases, calendars, FX, commodities, and bond yields, queryable in plain English.
 - [Global Macro Database](https://www.globalmacrodata.com/) - Open-source macro dataset covering 241 countries, 1086–2024, from contemporary and historical sources.
+- [Invokely](https://invokely.ai/docs) - Official statistics REST API with source citations and 500 free monthly calls for U.S., EU, Spain, and World Bank data.
 - [Trading Economics API](https://tradingeconomics.com/api/) - 300,000+ indicators from 196 countries with Python and R packages.
 
 ## Academic Writing and LaTeX
