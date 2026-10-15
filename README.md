@@ -320,6 +320,7 @@ _Agent skills for paper writing, refereeing, and slides are listed under Agent S
 
 ### Labor Market Data
 
+- [CareJobs.Now](https://carejobs.now/data) - Daily US healthcare job postings and posted hourly pay from 258 hospitals' and health systems' career sites, as open data (CC BY 4.0, [Zenodo DOI](https://doi.org/10.5281/zenodo.23395728)), free JSON endpoints and a no-auth MCP server.
 - [Lightcast](https://lightcast.io/) - Global job-postings and skills data across 165 countries, plus the free Open Skills taxonomy of 34,000+ skills.
 - [LinkedIn Economic Graph](https://economicgraph.linkedin.com/) - Research and interactive data on hiring, skills, and AI's effect on work, including the monthly LinkedIn Workforce Report.
 - [Revelio Labs](https://www.reveliolabs.com/) - Workforce data with free monthly RPLS U.S. labor statistics, a monthly AI Labor Market Tracker, and academic access via WRDS.
