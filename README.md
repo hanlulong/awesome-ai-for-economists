@@ -335,6 +335,7 @@ _Agent skills for paper writing, refereeing, and slides are listed under Agent S
 - [Microsoft Global AI Diffusion Report](https://www.microsoft.com/en-us/corporate-responsibility/topics/ai-economy-institute/reports/global-ai-diffusion-report/) - Quarterly telemetry-based estimates of generative AI use among working-age adults in 147 economies.
 - [OpenAI Signals](https://openai.com/signals/) - OpenAI's economic research hub with quarterly downloadable data on ChatGPT adoption and use by country, age, and task.
 - [Ramp AI Index](https://ramp.com/data/ai-index) - Monthly share of U.S. businesses on Ramp paying for AI tools, by industry, size, and provider; also on FRED.
+- [Revolutio Statistics](https://revolutio.si/statistics/) - Monthly BLS CES and JOLTS employment, openings, and layoffs across 12 U.S. industries framed around AI disruption, with a CSV export and series IDs for every number.
 - [Yale Budget Lab AI Tracker](https://budgetlab.yale.edu/research/tracking-impact-ai-labor-market) - Regularly updated CPS-based analysis, with data, of whether AI is shifting U.S. occupations and unemployment.
 
 ### Spatial, Satellite and Alternative Data
