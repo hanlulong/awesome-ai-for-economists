@@ -363,6 +363,7 @@ _Agent skills for paper writing, refereeing, and slides are listed under Agent S
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) - Open-source web crawler producing LLM-ready markdown for RAG and data pipelines. ![GitHub stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=flat-square)
 - [Crawlee](https://crawlee.dev) - Open-source crawling and scraping library that extracts web data for AI, LLM, and RAG pipelines. ![GitHub stars](https://img.shields.io/github/stars/apify/crawlee?style=flat-square)
 - [Firecrawl](https://www.firecrawl.dev/) - Open-source API turning websites into LLM-ready Markdown or structured JSON, with an AI agent for schema-based extraction. ![GitHub stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=flat-square)
+- [Keenable](https://keenable.ai/) - Web search API and page fetch for AI agents with its own 100B+ document index; returns ranked results with publish dates and clean Markdown pages over API, CLI or MCP. 100K free requests/month.
 - [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - LLM-powered scraping that adapts to website changes automatically. ![GitHub stars](https://img.shields.io/github/stars/ScrapeGraphAI/Scrapegraph-ai?style=flat-square)
 
 ### Survey and Qualitative Research
