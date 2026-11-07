@@ -20,11 +20,14 @@ Use this exact format:
 
 - Use the project's official name as the link text. Link its own website or upstream repository, never a fork, mirror, directory, marketplace, or news article.
 - Write one objective sentence of 20 words or fewer that starts with a capital letter and ends with a period. Leave out superlatives, marketing claims, usage counts, and prices.
+- Avoid wording that goes out of date, such as submission deadlines.
 - Add the stars badge whenever the project's source code is on GitHub, even if the link points to its website. The badge's `owner/repo` must match the repository's current name.
 - Place the entry in alphabetical order (ignoring case) within its section. Key Papers are the one exception (see the next point).
 - Key Papers use `- [Full official title](https://example.com) - Authors (Year), Venue.` Name up to three authors, and write "First author et al." for four or more. Papers are grouped by theme and listed newest first, then by first author.
+- Books, Conferences, and Community follow their own patterns. Books name the authors and topic and end with `(Publisher, Year)` when formally published. Conferences name the organizer and give the place and dates of the latest or next meeting, such as `(latest: Cornell, June 16–17, 2026)`. Community lines separate `[Name](https://example.com)` items with ` | `, add the author or institution in parentheses where useful, and sort by name (People by surname).
 - Do not use bold. Bold marks the maintainers' own projects (see below).
-- Every pull request is checked automatically with awesome-lint, and the check must pass.
+- Pull requests are checked with awesome-lint and `.github/scripts/check_readme.py`, and both checks must pass before merging. For first-time contributors, the checks run once a maintainer approves the workflow run.
+- To check your change before opening a pull request, run `npx awesome-lint@2.3.0 README.md` and `python3 .github/scripts/check_readme.py README.md`. In a fork, errors from awesome-lint's `remark-lint:awesome-github` rule (missing "awesome" or "awesome-list" topics, or "Awesome list must reside in a valid git repository" before your branch is pushed) come from the fork's setup and can be ignored; fix every other error.
 
 ## Pull Request Rules
 

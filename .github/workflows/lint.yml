@@ -26,3 +26,14 @@ jobs:
           # awesome-lint reads this lowercase name; the token avoids the anonymous
           # API rate limit when it checks the repo description, topics, and license.
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
+  format-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: Test the format checker
+        run: python3 -I -m unittest discover -s .github/scripts -p 'test_*.py'
+      - name: Check entry order, length, and badges
+        run: python3 -I .github/scripts/check_readme.py README.md
