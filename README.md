@@ -301,6 +301,7 @@ _Agent skills for paper writing, refereeing, and slides are listed under Agent S
 
 ## NLP and Text as Data
 
+- [American Stories](https://huggingface.co/datasets/dell-research-harvard/AmericanStories) - CC BY article texts from nearly 20 million Chronicling America newspaper scans, by Melissa Dell's lab at Harvard. ![GitHub stars](https://img.shields.io/github/stars/dell-research-harvard/AmericanStories?style=flat-square)
 - [CentralBankRoBERTa](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa) - Fine-tuned RoBERTa for sentiment classification in central bank communications. ![GitHub stars](https://img.shields.io/github/stars/Moritz-Pfeifer/CentralBankRoBERTa?style=flat-square)
 - [ChronoGPT](https://huggingface.co/manelalab) - Open language models with yearly checkpoints (1999–2024), each trained only on text available through that year to avoid lookahead bias.
 - [EconBERTa](https://github.com/worldbank/econberta-econie) - World Bank DeBERTa trained on 9.4B tokens from 1.5M economics papers with NER. ![GitHub stars](https://img.shields.io/github/stars/worldbank/econberta-econie?style=flat-square)
@@ -328,6 +329,8 @@ _Agent skills for paper writing, refereeing, and slides are listed under Agent S
 ### AI Adoption and Exposure Trackers
 
 - [AI Economic Indicators](https://digitaleconomy.stanford.edu/project/indicators/) - Stanford Digital Economy Lab's monthly dashboards on AI's effects on employment, adoption, and consumer surplus.
+- [AI Index](https://hai.stanford.edu/ai-index) - Stanford HAI's annual report on AI progress, adoption, and economic effects, with downloadable public data.
+- [AIOE](https://github.com/AIOE-Data/AIOE) - Felten, Raj, and Seamans's AI occupational, industry, and geographic exposure measures (Strategic Management Journal, 2021). ![GitHub stars](https://img.shields.io/github/stars/AIOE-Data/AIOE?style=flat-square)
 - [Anthropic Economic Index](https://www.anthropic.com/economic-index) - CC BY dataset and recurring reports on Claude use by O*NET task, occupation, and region, queryable through a Claude connector.
 - [Census BTOS](https://www.census.gov/programs-surveys/btos.html) - Census Bureau's biweekly business survey tracking current and expected AI use by sector, state, and firm size.
 - [GenAI Adoption Tracker](https://www.genaiadoptiontracker.com/) - Bick, Blandin, and Deming's nationally representative survey of U.S. generative AI use at work and home.
@@ -336,6 +339,7 @@ _Agent skills for paper writing, refereeing, and slides are listed under Agent S
 - [Microsoft Global AI Diffusion Report](https://www.microsoft.com/en-us/corporate-responsibility/topics/ai-economy-institute/reports/global-ai-diffusion-report/) - Quarterly telemetry-based estimates of generative AI use among working-age adults in 147 economies.
 - [OpenAI Signals](https://openai.com/signals/) - OpenAI's economic research hub with quarterly downloadable data on ChatGPT adoption and use by country, age, and task.
 - [Ramp AI Index](https://ramp.com/data/ai-index) - Monthly share of U.S. businesses on Ramp paying for AI tools, by industry, size, and provider; also on FRED.
+- [Working with AI](https://github.com/microsoft/working-with-ai) - Microsoft Research's occupation-level AI applicability scores from Bing Copilot conversations (NeurIPS 2026). ![GitHub stars](https://img.shields.io/github/stars/microsoft/working-with-ai?style=flat-square)
 - [Yale Budget Lab AI Tracker](https://budgetlab.yale.edu/research/tracking-impact-ai-labor-market) - Regularly updated CPS-based analysis, with data, of whether AI is shifting U.S. occupations and unemployment.
 
 ### Spatial, Satellite and Alternative Data
