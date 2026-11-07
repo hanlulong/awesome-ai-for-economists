@@ -199,13 +199,13 @@ _Valid estimates and standard errors when regression variables come from LLM or 
 ### Forecasting and Nowcasting
 
 - [Chronos](https://github.com/amazon-science/chronos-forecasting) - Amazon's pretrained forecasting models; Chronos-2 adds zero-shot multivariate and covariate-informed forecasting. ![GitHub stars](https://img.shields.io/github/stars/amazon-science/chronos-forecasting?style=flat-square)
-- [Durbyn.jl](https://github.com/taf-society/Durbyn.jl) - Julia port of R's forecast package. ![GitHub stars](https://img.shields.io/github/stars/taf-society/Durbyn.jl?style=flat-square)
-- [Moirai (uni2ts)](https://github.com/SalesforceAIResearch/uni2ts) - Salesforce's library for Moirai time-series foundation models (latest Moirai 2.0), with pre-training, fine-tuning, and evaluation code. ![GitHub stars](https://img.shields.io/github/stars/SalesforceAIResearch/uni2ts?style=flat-square)
+- [Durbyn.jl](https://github.com/taf-society/Durbyn.jl) - Native Julia forecasting package (ARIMA, ETS, Theta, TBATS) with a formula interface and panel-data support. ![GitHub stars](https://img.shields.io/github/stars/taf-society/Durbyn.jl?style=flat-square)
+- [Moirai (uni2ts)](https://github.com/SalesforceAIResearch/uni2ts) - Salesforce's library for Moirai time-series foundation models (latest Moirai 2.0, non-commercial weights), with pre-training, fine-tuning, and evaluation code. ![GitHub stars](https://img.shields.io/github/stars/SalesforceAIResearch/uni2ts?style=flat-square)
 - [neuralforecast](https://github.com/Nixtla/neuralforecast) - Neural forecasting models (N-BEATS, NHITS, Transformers) for economic time series. ![GitHub stars](https://img.shields.io/github/stars/Nixtla/neuralforecast?style=flat-square)
 - [Project Spectrum](https://www.bis.org/project/spectrum) - BIS/ECB/Bundesbank project using GenAI embeddings to classify 34M products for inflation nowcasting (2026 report).
 - [statsforecast](https://github.com/Nixtla/statsforecast) - Fast statistical forecasting for econometric time series. ![GitHub stars](https://img.shields.io/github/stars/Nixtla/statsforecast?style=flat-square)
 - [Sundial](https://github.com/thuml/Sundial) - Generative time-series foundation models giving probabilistic forecasts via flow matching without discrete tokenization. ![GitHub stars](https://img.shields.io/github/stars/thuml/Sundial?style=flat-square)
-- [tabpfn-time-series](https://github.com/PriorLabs/tabpfn-time-series) - Zero-shot time-series forecasting that repurposes the TabPFN-v2 tabular foundation model, no training needed. ![GitHub stars](https://img.shields.io/github/stars/PriorLabs/tabpfn-time-series?style=flat-square)
+- [tabpfn-time-series](https://github.com/PriorLabs/tabpfn-time-series) - Zero-shot time-series forecasting that repurposes the TabPFN-3.5 tabular foundation model, no training needed (local weights are non-commercial). ![GitHub stars](https://img.shields.io/github/stars/PriorLabs/tabpfn-time-series?style=flat-square)
 - [TimeGPT](https://github.com/Nixtla/nixtla) - Nixtla's closed-source, API-based time-series foundation model with a free trial; TimeGPT-2.1 adds multivariate forecasting. ![GitHub stars](https://img.shields.io/github/stars/Nixtla/nixtla?style=flat-square)
 - [TimesFM](https://github.com/google-research/timesfm) - Google's time-series foundation model; TimesFM 3.0 (2026) adds zero-shot multivariate forecasting with covariates (self-hosted weights are non-commercial). ![GitHub stars](https://img.shields.io/github/stars/google-research/timesfm?style=flat-square)
 - [TiRex-2](https://github.com/NX-AI/tirex-2) - NX-AI's zero-shot forecaster extending TiRex to multivariate series with past and future-known covariates (NeurIPS 2026, Apache-2.0). ![GitHub stars](https://img.shields.io/github/stars/NX-AI/tirex-2?style=flat-square)
@@ -231,7 +231,7 @@ _Valid estimates and standard errors when regression variables come from LLM or 
 ## Literature Review and Research Discovery
 
 - [alphaXiv](https://www.alphaxiv.org/) - Line-by-line discussion on arXiv papers with AI-powered analysis.
-- [ASReview](https://github.com/asreview/asreview) - Active learning for systematic reviews, reducing screening time by up to 95% (Nature Machine Intelligence). ![GitHub stars](https://img.shields.io/github/stars/asreview/asreview?style=flat-square)
+- [ASReview](https://github.com/asreview/asreview) - Active learning for systematic reviews that ranks likely relevant records first for screening (Nature Machine Intelligence). ![GitHub stars](https://img.shields.io/github/stars/asreview/asreview?style=flat-square)
 - [Asta](https://asta.allen.ai/) - Ai2's agentic-science assistant for paper finding, cited literature reports, and data analysis; successor to the OpenScholar demo. ![GitHub stars](https://img.shields.io/github/stars/allenai/ai2-scholarqa-lib?style=flat-square)
 - [Connected Papers](https://www.connectedpapers.com/) - Visual graphs of related papers from a seed paper.
 - [Consensus](https://consensus.app/) - AI academic search with quote-linked citations, a multi-step research agent, and API and MCP access.
@@ -303,7 +303,7 @@ _Agent skills for paper writing, refereeing, and slides are listed under Agent S
 - [CentralBankRoBERTa](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa) - Fine-tuned RoBERTa for sentiment classification in central bank communications. ![GitHub stars](https://img.shields.io/github/stars/Moritz-Pfeifer/CentralBankRoBERTa?style=flat-square)
 - [ChronoGPT](https://huggingface.co/manelalab) - Open language models with yearly checkpoints (1999–2024), each trained only on text available through that year to avoid lookahead bias.
 - [EconBERTa](https://github.com/worldbank/econberta-econie) - World Bank DeBERTa trained on 9.4B tokens from 1.5M economics papers with NER. ![GitHub stars](https://img.shields.io/github/stars/worldbank/econberta-econie?style=flat-square)
-- [FinBERT](https://huggingface.co/ProsusAI/finbert) - Fine-tuned BERT for financial sentiment, widely cited in economics and finance research.
+- [FinBERT](https://huggingface.co/ProsusAI/finbert) - Fine-tuned BERT for financial sentiment analysis (non-commercial weights). ![GitHub stars](https://img.shields.io/github/stars/ProsusAI/finBERT?style=flat-square)
 - [GABRIEL](https://github.com/openai/GABRIEL) - OpenAI toolkit turning text, images, or audio into quantitative measures for social scientists. ![GitHub stars](https://img.shields.io/github/stars/openai/GABRIEL?style=flat-square)
 - [LinkTransformer](https://github.com/dell-research-harvard/linktransformer) - Arora and Dell's (Harvard) Python package for transformer-based record linkage, deduplication, and classification of messy text in dataframes. ![GitHub stars](https://img.shields.io/github/stars/dell-research-harvard/linktransformer?style=flat-square)
 - [OccCANINE](https://github.com/christianvedels/OccCANINE) - Model converting free-text occupational descriptions in 13 languages into HISCO codes with about 96% accuracy. ![GitHub stars](https://img.shields.io/github/stars/christianvedels/OccCANINE?style=flat-square)
@@ -360,7 +360,7 @@ _Agent skills for paper writing, refereeing, and slides are listed under Agent S
 
 ### Web Scraping
 
-- [Crawl4AI](https://github.com/unclecode/crawl4ai) - Open-source web crawler producing LLM-ready markdown for RAG and data pipelines. ![GitHub stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=flat-square)
+- [Crawl4AI](https://github.com/unclecode/crawl4ai) - Open-source web crawler producing LLM-ready Markdown for RAG and data pipelines. ![GitHub stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=flat-square)
 - [Crawlee](https://crawlee.dev) - Open-source crawling and scraping library that extracts web data for AI, LLM, and RAG pipelines. ![GitHub stars](https://img.shields.io/github/stars/apify/crawlee?style=flat-square)
 - [Firecrawl](https://www.firecrawl.dev/) - Open-source API for web search and scraping that returns Markdown or structured JSON, with an MCP server and agent skills. ![GitHub stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=flat-square)
 - [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - LLM-powered scraping that adapts to website changes automatically. ![GitHub stars](https://img.shields.io/github/stars/ScrapeGraphAI/Scrapegraph-ai?style=flat-square)
@@ -440,7 +440,7 @@ _Grouped by theme, newest first._
 
 - [AI for Economic Theorists and Mathematicians](https://markusacademy.substack.com/p/ai-for-economic-theorists-and-mathematicians) - Markus' Academy series by Pietro Ortoleva and Fedor Sandomirskiy (Princeton) on AI for modeling and proofs.
 - [AI for Economists](https://policy.fi/ai-econ/) - Jesse Lastunen's curated, filterable directory of papers, courses, tools, and talks on AI in economics.
-- [AI Tools for Economists and Policy Analysts](https://www.aei.org/domestic-policy/technology-and-innovation/ai-tools-for-economists-and-policy-analysts/) - Will Rinehart's (AEI) regularly updated guide mapping AI tools and prompts to economics and policy tasks.
+- [AI Tools for Economists and Policy Analysts](https://www.aei.org/domestic-policy/technology-and-innovation/ai-tools-for-economists-and-policy-analysts/) - Will Rinehart's (AEI) guide mapping AI tools and prompts to economics and policy tasks.
 - [Claude Blattman](https://claudeblattman.com/) - Chris Blattman's (UChicago) open-source guide to AI research workflows with Claude Code, no coding required, plus an installable skills plugin. ![GitHub stars](https://img.shields.io/github/stars/chrisblattman/claudeblattman?style=flat-square)
 - [Claude Code for Applied Economists](https://markusacademy.substack.com/p/claude-code-for-applied-economists) - Paul Goldsmith-Pinkham's (Yale) eight-episode video series on data work, scraping, skills, sandboxing, and Overleaf.
 - [Data Analysis with AI](https://gabors-data-analysis.com/ai-course/) - Gábor Békés's (CEU) eight-session open course using AI coding agents for data wrangling, econometrics, text as data, and DiD.
@@ -460,7 +460,7 @@ _Grouped by theme, newest first._
 ### Conferences
 
 - [ESIF Economics and AI+ML Meeting](https://www.econometricsociety.org/regional-activities/schedule/2026/06/16/2026-ESIFEconomics-and-AIML-Meeting) - Econometric Society's biennial interdisciplinary meeting on economics and AI/ML (latest: Cornell, June 16–17, 2026).
-- [NBER Digital Economics and AI Meeting](https://www.nber.org/conferences/digital-economics-and-ai-meeting-spring-2027) - Stanford, January 21–22, 2027; paper submissions and PhD tutorial applications due November 3, 2026.
+- [NBER Digital Economics and AI Meeting](https://www.nber.org/conferences/digital-economics-and-ai-meeting-spring-2027) - Meeting organized by Goldfarb, Reimers, Simonov, and Tucker (next: Stanford, January 21–22, 2027).
 - [NBER Economics of AI Conference](https://www.nber.org/conferences/economics-artificial-intelligence-fall-2026) - Annual fall conference in Toronto organized by Agrawal, Gans, Goldfarb, and Tucker (latest: September 23–24, 2026).
 
 ### Community
