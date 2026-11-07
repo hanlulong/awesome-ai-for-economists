@@ -91,13 +91,14 @@ jobs:
               echo
             fi
             if [ "$LINKS_FAILED" = "true" ]; then
-              echo "## Broken links"
+              echo "## Link check report"
               echo
               cat lychee/report.md
             fi
           } > issue.md
           if [ -n "$number" ]; then
             gh issue edit "$number" --body-file issue.md
+            gh issue comment "$number" --body "The weekly link check updated this report: $RUN_URL"
           else
             gh issue create --title "Link check found problems" --label "$label" --body-file issue.md
           fi
