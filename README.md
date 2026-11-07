@@ -53,7 +53,6 @@ A curated list of AI tools, agent skills, libraries, and resources for economics
 
 [Model Context Protocol](https://modelcontextprotocol.io/) (MCP) servers let AI assistants query economic databases directly. Connect Claude, Cursor, or other MCP-compatible tools to live data from FRED, World Bank, IMF, and more.
 
-- [Alpha Vantage MCP](https://mcp.alphavantage.co/) - Official server for stocks, forex, commodities, and economic indicators.
 - [Data Commons MCP Server](https://github.com/datacommonsorg/agent-toolkit) - Official Data Commons server, hosted with a free key or run locally, serving Census, World Bank, BLS, and WHO statistics. ![GitHub stars](https://img.shields.io/github/stars/datacommonsorg/agent-toolkit?style=flat-square)
 - [ECB MCP Server](https://github.com/scka-de/ecb-mcp) - Query European Central Bank exchange rates, policy rates, yield curves, and euro-area monetary statistics. ![GitHub stars](https://img.shields.io/github/stars/scka-de/ecb-mcp?style=flat-square)
 - [Equibles MCP](https://github.com/daniel3303/Equibles) - Self-hosted, open-source server for SEC filings, XBRL financials, 13F holdings, insider trades, short interest, CFTC positioning, and federal contracts. ![GitHub stars](https://img.shields.io/github/stars/daniel3303/Equibles?style=flat-square)
@@ -277,7 +276,6 @@ _Agent skills for paper writing, refereeing, and slides are listed under Agent S
 - [**overleaf-sync-now**](https://github.com/hanlulong/overleaf-sync-now) - Agent skill and CLI that pull recent Overleaf web edits into a Dropbox-synced copy before AI agents edit it. ![GitHub stars](https://img.shields.io/github/stars/hanlulong/overleaf-sync-now?style=flat-square)
 - [Paperpal](https://paperpal.com/) - Academic writing assistant on Overleaf, Google Docs, and Chrome.
 - [Refine.ink](https://www.refine.ink/) - AI technical verification flagging errors in reasoning, calculations, and references; used by AEA and Econometric Society journals.
-- [Thesify](https://www.thesify.ai/) - AI reviewer evaluating argumentation, methodology, and rigor.
 - [Typst](https://typst.app/) - Markup-based typesetting system and LaTeX alternative with simpler syntax, incremental compilation, and a collaborative web editor. ![GitHub stars](https://img.shields.io/github/stars/typst/typst?style=flat-square)
 - [Underleaf](https://www.underleaf.ai/) - Chrome extension for image-to-LaTeX and smart citation generation.
 
