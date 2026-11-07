@@ -248,7 +248,7 @@ _Valid estimates and standard errors when regression variables come from LLM or 
 - [SciSpace](https://scispace.com/) - Deep review with iterative search and Zotero integration across 280M papers.
 - [Scite](https://scite.ai/) - Smart Citations classifying 1.6B+ citations as supporting or contrasting, plus an AI assistant, Reference Check, and MCP access.
 - [Semantic Scholar](https://www.semanticscholar.org/) - AI-powered academic search with citation analysis, TLDR summaries, and free API across 220M+ papers.
-- [Suppr](https://suppr.ai/) - AI literature search, document translation, and deep-research reports over PubMed and OpenAlex, with a Zotero plugin.
+- [Suppr](https://suppr.wilddata.cn/) - AI literature search, document translation, and deep-research reports over PubMed and OpenAlex, with a Zotero plugin.
 - [Undermind](https://www.undermind.ai/) - Autonomously reads hundreds of papers and produces structured reports with timelines and categories.
 - [Zotero MCP](https://github.com/54yyyu/zotero-mcp) - Connects your Zotero library to Claude, ChatGPT, Codex, and Cursor to search, read, annotate, and cite papers. ![GitHub stars](https://img.shields.io/github/stars/54yyyu/zotero-mcp?style=flat-square)
 - [Zotero PapersGPT](https://github.com/papersgpt/papersgpt-for-zotero) - Zotero AI plugin supporting ChatGPT, Claude, Gemini, and more for PDF chat and summaries. ![GitHub stars](https://img.shields.io/github/stars/papersgpt/papersgpt-for-zotero?style=flat-square)
