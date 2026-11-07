@@ -321,7 +321,7 @@ _Agent skills for paper writing, refereeing, and slides are listed under Agent S
 ### Labor Market Data
 
 - [Lightcast](https://lightcast.io/) - Global job-postings and skills data across 165 countries, plus the free Open Skills taxonomy of 34,000+ skills.
-- [LinkedIn Economic Graph](https://economicgraph.linkedin.com/) - Research and interactive data on hiring, skills, and AI's effect on work, including the monthly LinkedIn Workforce Report.
+- [LinkedIn Pulse](https://pulse.linkedin.com/) - Formerly LinkedIn Economic Graph: research and interactive data on hiring, skills, and AI's effect on work, plus regular Workforce Reports.
 - [Revelio Labs](https://www.reveliolabs.com/) - Workforce data with free monthly RPLS U.S. labor statistics, a monthly AI Labor Market Tracker, and academic access via WRDS.
 
 ### AI Adoption and Exposure Trackers
