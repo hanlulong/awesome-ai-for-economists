@@ -157,10 +157,13 @@ _Systems that turn a research question into a cited report, an analysis, or a dr
 
 ### Difference-in-Differences and Synthetic Control
 
+- [CausalImpact](https://google.github.io/CausalImpact/) - Google's R package for Bayesian structural time-series estimates of an intervention's effect on a time series. ![GitHub stars](https://img.shields.io/github/stars/google/CausalImpact?style=flat-square)
 - [CImpact](https://github.com/Sanofi-Public/CImpact) - Causal impact for time series with frequentist and Bayesian methods. ![GitHub stars](https://img.shields.io/github/stars/Sanofi-Public/CImpact?style=flat-square)
 - [contdid](https://github.com/bcallaway11/contdid) - DiD with continuous treatment, by Brantly Callaway. ![GitHub stars](https://img.shields.io/github/stars/bcallaway11/contdid?style=flat-square)
+- [did](https://bcallaway11.github.io/did/) - Callaway and Sant'Anna's R package for staggered difference-in-differences with multiple periods. ![GitHub stars](https://img.shields.io/github/stars/bcallaway11/did?style=flat-square)
 - [diff-diff](https://github.com/igerber/diff-diff) - Python DiD library with Callaway-Sant'Anna, imputation, synthetic DiD, continuous treatment, and Honest DiD, benchmarked against R. ![GitHub stars](https://img.shields.io/github/stars/igerber/diff-diff?style=flat-square)
 - [differences](https://github.com/bernardodionisi/differences) - Python implementation of Callaway and Sant'Anna staggered difference-in-differences with multiple periods and triple differences. ![GitHub stars](https://img.shields.io/github/stars/bernardodionisi/differences?style=flat-square)
+- [HonestDiD](https://github.com/asheshrambachan/HonestDiD) - Rambachan and Roth's R package for sensitivity analysis to parallel-trends violations (Review of Economic Studies, 2023). ![GitHub stars](https://img.shields.io/github/stars/asheshrambachan/HonestDiD?style=flat-square)
 - [mlsynth](https://github.com/jgreathouse9/mlsynth) - Python library bundling dozens of synthetic control estimators under one API, cross-checked against original implementations. ![GitHub stars](https://img.shields.io/github/stars/jgreathouse9/mlsynth?style=flat-square)
 - [moderndid](https://github.com/jordandeklerk/moderndid) - Modern DiD estimators (staggered, continuous, triple, Honest DiD) under one API, scaling to GPUs and Spark or Dask clusters. ![GitHub stars](https://img.shields.io/github/stars/jordandeklerk/moderndid?style=flat-square)
 - [pysyncon](https://github.com/sdfordham/pysyncon) - Python synthetic control suite with classic, augmented, penalized, and robust estimators plus placebo inference. ![GitHub stars](https://img.shields.io/github/stars/sdfordham/pysyncon?style=flat-square)
