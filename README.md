@@ -413,9 +413,13 @@ _Grouped by theme, newest first._
 - [Machine Learning as a Tool for Hypothesis Generation](https://academic.oup.com/qje/article/139/2/751/7515309) - Ludwig and Mullainathan (2024), Quarterly Journal of Economics.
 - [Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?](https://www.nber.org/papers/w31122) - Horton, Filippas, and Manning (2023), NBER Working Paper 31122.
 - [Generative AI for Economic Research: Use Cases and Implications for Economists](https://www.aeaweb.org/articles?id=10.1257/jel.20231736) - Korinek (2023), Journal of Economic Literature.
+- [Machine Learning Methods That Economists Should Know About](https://doi.org/10.1146/annurev-economics-080217-053433) - Athey and Imbens (2019), Annual Review of Economics.
+- [Text as Data](https://www.aeaweb.org/articles?id=10.1257/jel.20181020) - Gentzkow, Kelly, and Taddy (2019), Journal of Economic Literature.
+- [Machine Learning: An Applied Econometric Approach](https://www.aeaweb.org/articles?id=10.1257/jep.31.2.87) - Mullainathan and Spiess (2017), Journal of Economic Perspectives.
 
 #### Economics of AI
 
+- [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of Artificial Intelligence on Knowledge Worker Productivity and Quality](https://doi.org/10.1287/orsc.2025.21838) - Dell'Acqua et al. (2026), Organization Science.
 - [The Emerging Market for Intelligence: How Firms Buy and Sell AI](https://www.aeaweb.org/articles?id=10.1257/jep.20261506) - Demirer, Fradkin, and Tadelis (2026), Journal of Economic Perspectives.
 - [AI and Our Economic Future](https://www.aeaweb.org/articles?id=10.1257/jep.20261505) - Jones (2026), Journal of Economic Perspectives.
 - [Economic Scenarios for Transformative AI](https://web.stanford.edu/~chadj/econscenarios.pdf) - Korinek et al. (2026), CEPR Discussion Paper 21939.
@@ -424,6 +428,9 @@ _Grouped by theme, newest first._
 - [A Research Agenda for the Economics of Transformative AI](https://www.nber.org/papers/w34256) - Brynjolfsson, Korinek, and Agrawal (2025), NBER Working Paper 34256.
 - [Generative AI at Work](https://academic.oup.com/qje/article/140/2/889/7990658) - Brynjolfsson, Li, and Raymond (2025), Quarterly Journal of Economics.
 - [How People Use ChatGPT](https://www.nber.org/papers/w34255) - Chatterji et al. (2025), NBER Working Paper 34255.
+- [GPTs Are GPTs: Labor Market Impact Potential of LLMs](https://doi.org/10.1126/science.adj0998) - Eloundou et al. (2024), Science.
+- [Experimental Evidence on the Productivity Effects of Generative Artificial Intelligence](https://doi.org/10.1126/science.adh2586) - Noy and Zhang (2023), Science.
+- [Artificial Intelligence and Jobs: Evidence from Online Vacancies](https://doi.org/10.1086/718327) - Acemoglu et al. (2022), Journal of Labor Economics.
 
 ### Books
 
