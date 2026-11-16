@@ -275,6 +275,7 @@ _Agent skills for paper writing, refereeing, and slides are listed under Agent S
 
 - [bibverify](https://github.com/Hylouis233/bibverify) - Verifies BibTeX entries against Crossref, OpenAlex, Semantic Scholar, and arXiv via CLI, MCP server, or agent skill. ![GitHub stars](https://img.shields.io/github/stars/Hylouis233/bibverify?style=flat-square)
 - [HumanPen](https://humanpen.net/) - Document-level writing assistant for humanizing, condensing, translating, and citation formatting in DOCX, PPTX, and TXT.
+- [HumanPen](https://humanpen.net/) - Document-level academic humanization, translation, condensation, citation format correction, and scoped research project support.
 - [OpenAI Prism](https://openai.com/prism/) - Free LaTeX workspace with citation management, Zotero sync, sketch-to-equation, and real-time collaboration.
 - [Overleaf AI](https://www.overleaf.com/about/ai-features) - LaTeX error fixing, table and equation generation, and writing feedback, included in all Overleaf plans with a basic free allowance.
 - [**overleaf-sync-now**](https://github.com/hanlulong/overleaf-sync-now) - Agent skill and CLI that pull recent Overleaf web edits into a Dropbox-synced copy before AI agents edit it. ![GitHub stars](https://img.shields.io/github/stars/hanlulong/overleaf-sync-now?style=flat-square)
