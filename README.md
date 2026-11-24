@@ -212,6 +212,7 @@ _Valid estimates and standard errors when regression variables come from LLM or 
 - [TimesFM](https://github.com/google-research/timesfm) - Google's time-series foundation model; TimesFM 3.0 (2026) adds zero-shot multivariate forecasting with covariates (self-hosted weights are non-commercial). ![GitHub stars](https://img.shields.io/github/stars/google-research/timesfm?style=flat-square)
 - [TiRex-2](https://github.com/NX-AI/tirex-2) - NX-AI's zero-shot forecaster extending TiRex to multivariate series with past and future-known covariates (NeurIPS 2026, Apache-2.0). ![GitHub stars](https://img.shields.io/github/stars/NX-AI/tirex-2?style=flat-square)
 - [Toto](https://github.com/DataDog/toto) - Datadog's Apache-2.0 time-series foundation models; Toto 2.0 (2026) spans 4M to 2.5B parameters. ![GitHub stars](https://img.shields.io/github/stars/DataDog/toto?style=flat-square)
+- [Calibration Ledger](https://apify.com/publicrecords/calibration-ledger) - Forecast track records (IMF, OECD, Fed, ECB SPF): forecast errors and bias by organization (Apify Actor, API + MCP).
 
 ### Game Theory and Mechanism Design
 
