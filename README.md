@@ -240,6 +240,7 @@ _Valid estimates and standard errors when regression variables come from LLM or 
 - [Elicit](https://elicit.com/) - Research agent and PRISMA 2020-aligned systematic reviews over 138M papers, with data extraction and an API and MCP server.
 - [Google Scholar Labs](https://scholar.google.com/scholar_labs/search) - Free AI mode in Google Scholar that breaks down research questions and explains how each paper addresses them; sign-in required.
 - [Inciteful](https://incitefulmed.com/academic/) - Free citation network analysis using graph algorithms to find key papers and connections.
+- [JournalCompass](https://journalcompass.com) - Free bilingual journal search with AI matching across 43,499 journals, showing CAS tiers, impact factors, review times, and APCs.
 - [Litmaps](https://www.litmaps.com/) - Dynamic multi-seed citation mapping with monitored searches and daily alerts for new papers.
 - [Meta-Mar](https://www.meta-mar.com/) - Free meta-analysis platform where AI reads PDFs and extracts quantitative outcomes.
 - [MindMap AI](https://mindmapai.app/) - Turns research papers, PDFs, and notes into structured visual mind maps for literature synthesis.
